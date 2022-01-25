@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **wonseok22/wonseok22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h1 align="center"> Won-Seok Han </h1>
+<h3 align="center"> Hongik Univ. majoring in Computer Engineering</h3>
+
+
 
 ### 🌱 Solved.ac Profile       
    
