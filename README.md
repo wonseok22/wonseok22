@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Won-Seok Han </h1>
 <h3 align="center"> Hongik Univ. majoring in Computer Engineering</h3>
+### 🌱 Contact with me 
+  📌 **jleejlee6@gmail.com**
+     
+
+### 🌱 My records
+ 📔 **https://recordofwonseok.tistory.com/**
 
 
 
@@ -34,8 +40,7 @@ Here are some ideas to get you started:
         
          
          
-         
-      
+
 ### 🌱 Dev. Language   
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonseok22&exclude_repo=webs_class&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
