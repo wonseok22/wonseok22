@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### 🌱 Contact with me    
 
   📌 **jleejlee6@gmail.com**    
-  📌 **010-4613-4649**
      
 ### 🌱 Skills
 <p align="left"> 
