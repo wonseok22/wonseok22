@@ -71,17 +71,12 @@
 </p>
 
 
-   
-
 
 ### 🌱 Solved.ac Profile       
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jleejlee5)](https://solved.ac/jleejlee5/)   
  
 
-### 🌱 Github Stats      
-   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonseok22&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
         
              
 
