@@ -17,31 +17,50 @@
 
 #### Programming Language
 <p align="left">
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+ <img src="https://img.shields.io/badge/java-brightgreen?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/c-critical?style=for-the-badge&logo=c&logoColor=white"> 
  <img src="https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=c++&logoColor=white"> 
- <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=white"> 
- <img src="https://img.shields.io/badge/javascript-007396?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/python-9cf?style=for-the-badge&logo=python&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
  
-</p>
-
-#### Back-end
-<p align="left">
-
 </p>
 
 #### Front-end
 <p align="left">
- 
+ <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"> 
+ <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white"> 
+ <img src="https://img.shields.io/badge/sass-c48da4?style=for-the-badge&logo=sass&logoColor=white"> 
+ <br>
+ <img src="https://img.shields.io/badge/vue-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <br>
+ <img src="https://img.shields.io/badge/figma-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/jetplin-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
 </p>
 
-#### CI/CD
+#### Back-end
 <p align="left">
- 
+ <img src="https://img.shields.io/badge/Spring-yellow?style=for-the-badge&logo=Spring&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Spring Boot-yellow?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=Django&logoColor=white"> 
+ <img src="https://img.shields.io/badge/nodejs-success?style=for-the-badge&logo=nodejs&logoColor=white"> 
+ <br>
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <br>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
+ <img src="https://img.shields.io/badge/jenkins-7b2d00?style=for-the-badge&logo=jenkins&logoColor=white">
+ <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> 
 </p>
+
+
+
 
 #### etc
 <p align="left">
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
 
 </p>
 
