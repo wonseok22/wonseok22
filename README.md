@@ -1,20 +1,5 @@
 
 
-<!--
-**wonseok22/wonseok22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 <h1 align="center"> 😄 Won-Seok Han </h1>
@@ -29,6 +14,7 @@ Here are some ideas to get you started:
   📌 **jleejlee6@gmail.com**    
      
 ### 🌱 Skills
+
 ## Programming Language
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -53,8 +39,12 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 </p>
+
 ## Back-end
 <p align="left">
+    <a href="https://jquery.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
    <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/django.svg" alt="django" width="60" height="40"/> 
   </a> 
@@ -62,11 +52,21 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
       </a> 
 </p>
+
 ## Front-end
+
 <p align="left">
+     <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+      </a> 
+
+
 </p>
 ## CI/CD
 <p align="left">
+ <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+      </a> 
 </p>
 
    
