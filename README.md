@@ -17,17 +17,13 @@
 
 #### Programming Language
 <p align="left">
- 
- ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![image]<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  ![image]<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  ![image]<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 
-  ![image](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![image]<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
 
-  ![image](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
   ![image]<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
- 
 </p>
 
 #### Back-end
