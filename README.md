@@ -27,14 +27,14 @@
 
 #### Front-end
 <p align="left">
- <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"> 
- <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white"> 
+ <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white"> 
+ <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white"> 
  <img src="https://img.shields.io/badge/sass-c48da4?style=for-the-badge&logo=sass&logoColor=white"> 
  <br>
- <img src="https://img.shields.io/badge/vue-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue&logoColor=white"> 
  <br>
- <img src="https://img.shields.io/badge/figma-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
- <img src="https://img.shields.io/badge/jetplin-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma&logoColor=white"> 
+ <img src="https://img.shields.io/badge/zeplin-orange?style=for-the-badge&logo=zeplin&logoColor=white"> 
 </p>
 
 #### Back-end
