@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
  <br>
- <img src="https://img.shields.io/badge/vue3-4FC08D?style=for-the-badge&logo=vue3&logoColor=white"> 
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
  <br>
  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
  <img src="https://img.shields.io/badge/zeplin-orange?style=for-the-badge&logo=zeplin&logoColor=white"> 
