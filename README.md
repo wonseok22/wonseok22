@@ -18,37 +18,37 @@
 #### Programming Language
 <p align="left">
  <img src="https://img.shields.io/badge/java-brightgreen?style=for-the-badge&logo=java&logoColor=white"> 
- <img src="https://img.shields.io/badge/c-critical?style=for-the-badge&logo=c&logoColor=white"> 
- <img src="https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=c++&logoColor=white"> 
- <img src="https://img.shields.io/badge/python-9cf?style=for-the-badge&logo=python&logoColor=white"> 
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
+ <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
  
 </p>
 
 #### Front-end
 <p align="left">
- <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white"> 
- <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white"> 
- <img src="https://img.shields.io/badge/sass-c48da4?style=for-the-badge&logo=sass&logoColor=white"> 
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+ <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+ <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
  <br>
- <img src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue&logoColor=white"> 
+ <img src="https://img.shields.io/badge/vue3-4FC08D?style=for-the-badge&logo=vue3&logoColor=white"> 
  <br>
- <img src="https://img.shields.io/badge/figma-red?style=for-the-badge&logo=figma&logoColor=white"> 
+ <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
  <img src="https://img.shields.io/badge/zeplin-orange?style=for-the-badge&logo=zeplin&logoColor=white"> 
 </p>
 
 #### Back-end
 <p align="left">
- <img src="https://img.shields.io/badge/Spring-yellow?style=for-the-badge&logo=Spring&logoColor=white"> 
- <img src="https://img.shields.io/badge/Spring Boot-yellow?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
- <img src="https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=Django&logoColor=white"> 
- <img src="https://img.shields.io/badge/nodejs-success?style=for-the-badge&logo=nodejs&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
+ <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white"> 
  <br>
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
  <br>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
- <img src="https://img.shields.io/badge/jenkins-7b2d00?style=for-the-badge&logo=jenkins&logoColor=white">
+ <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> 
 </p>
 
@@ -57,10 +57,10 @@
 
 #### etc
 <p align="left">
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
- <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=JIRA&logoColor=white"> 
+ <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> 
+ <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"> 
 
 </p>
 
