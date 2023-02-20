@@ -18,9 +18,11 @@
 #### Programming Language
 <p align="left">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
- <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white"> 
- <img src="https://img.shields.io/badge/c++-007396?style=for-the-badge&logo=c++&logoColor=white"> 
+ <img src="https://img.shields.io/badge/c-critical?style=for-the-badge&logo=c&logoColor=white"> 
+ <img src="https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=c++&logoColor=white"> 
  <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=white"> 
+ <img src="https://img.shields.io/badge/javascript-007396?style=for-the-badge&logo=javascript&logoColor=white"> 
+ 
 </p>
 
 #### Back-end
